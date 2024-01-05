@@ -1,6 +1,6 @@
 # SkyCast weather application
 
-***Project Overview:*** [https://www.youtube.com/watch?v=mLFPodZO8Iw](https://youtu.be/ZueK52g2JhQ)
+***Project Overview:*** [https://www.youtube.com/watch?v=mLFPodZO8Iw](https://youtu.be/Kl5ktLZsW9w)
 
 ## About
 Developed SkyCast, a weather application, using Spring Boot for the backend and HTML, CSS and JavaScript for the frontend. Integrated Open Weather API to fetch real-time weather data and implemented business logic following REST architecture. Successfully delivered a fully functional application, showcasing proficiency in full-stack development and API integration.
